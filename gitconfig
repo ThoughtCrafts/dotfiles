@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hosny.mah98@gmail.com
+	name = Mahmoud Hosny
